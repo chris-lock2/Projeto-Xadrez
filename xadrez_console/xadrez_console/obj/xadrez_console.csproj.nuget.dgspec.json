@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chassis\\source\\repos\\xadrez_console\\xadrez_console\\xadrez_console.csproj": {}
+    "C:\\Users\\chassis\\Documents\\Faculdade\\Projeto-Xadrez\\xadrez_console\\xadrez_console\\xadrez_console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chassis\\source\\repos\\xadrez_console\\xadrez_console\\xadrez_console.csproj": {
+    "C:\\Users\\chassis\\Documents\\Faculdade\\Projeto-Xadrez\\xadrez_console\\xadrez_console\\xadrez_console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chassis\\source\\repos\\xadrez_console\\xadrez_console\\xadrez_console.csproj",
+        "projectUniqueName": "C:\\Users\\chassis\\Documents\\Faculdade\\Projeto-Xadrez\\xadrez_console\\xadrez_console\\xadrez_console.csproj",
         "projectName": "xadrez_console",
-        "projectPath": "C:\\Users\\chassis\\source\\repos\\xadrez_console\\xadrez_console\\xadrez_console.csproj",
+        "projectPath": "C:\\Users\\chassis\\Documents\\Faculdade\\Projeto-Xadrez\\xadrez_console\\xadrez_console\\xadrez_console.csproj",
         "packagesPath": "C:\\Users\\chassis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chassis\\source\\repos\\xadrez_console\\xadrez_console\\obj\\",
+        "outputPath": "C:\\Users\\chassis\\Documents\\Faculdade\\Projeto-Xadrez\\xadrez_console\\xadrez_console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chassis\\AppData\\Roaming\\NuGet\\NuGet.Config",
